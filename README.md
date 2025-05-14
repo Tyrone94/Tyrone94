@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anele Khanyile</h1>
 <h3 align="center">Data Analytics Intern | Cloud Foundation Certified | Data Science Certified |Data Engineering certified| Future Renewable Energy Leader 📍 Johannesburg, South Africa. Passionate about data, cloud, automation, AI, and creating a sustainable future through tech.</h3>
 
-- 🔭 I love coding in **SQL, working on GCP and AWS platform**
+- 🔭 I love coding in **SQL,Python, working on cloud platforms **
 
 - 🌱 I’ve been working with **- Python for Data Science - SQL & Power BI - Cloud Computing (AWS & Azure – Foundation Certified ✅) - Machine Learning Basics - Git & GitHub - AI tools for productivity**
 
@@ -13,7 +13,8 @@
 
 - 💬 Ask me about **- Data cleaning (Pandas, Python) - Cloud fundamentals (AWS +GCP)- Visualizations (Matplotlib, Power BI) - Career changes into tech - How to start with AI tools - Building your brand from scratch in Tech**
 
-- 📫 How to reach me **📧 anelekhanyile535@gmail.com 📱 +27 78 759 0532 🔗 LinkedIn:https://www.linkedin.com/in/anele-khanyile-ab081729a/**
+- 📫 How to reach me **📧 anelekhanyile535@gmail.com
+- 🔗 LinkedIn:https://www.linkedin.com/in/anele-khanyile-ab081729a/**
 
 - 📄 Know about my experiences [Mail Me](mailto:anelekhanyile535@gmail.com)
 
